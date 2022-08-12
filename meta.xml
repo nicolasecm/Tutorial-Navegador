@@ -1,0 +1,4 @@
+<meta>
+	<info author="NicolasEcm" name="Sistema de Navegador" version="1.0" type="script" />
+	<script src="client.lua" type="client"/>
+</meta>
